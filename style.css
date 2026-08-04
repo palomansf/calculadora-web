@@ -8,9 +8,14 @@ body {
 }
 
 h1 {
-    color: #333;
+    color: #333333;
 }
 
-p {
-    color: #666;
+.calculadora {
+    width: 320px;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: #ffffff;
+    border: 1px solid #cccccc;
+    border-radius: 10px;
 }
