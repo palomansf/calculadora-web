@@ -1,10 +1,27 @@
-# Calculadora-web
-Este é um projeto desenvolvido para praticar HTML, CSS e JavaScript.
-# Objetivo
-Construir uma calculadora funcional para reforçar conceitos de desenvolvimento web, organização de códigos e manipulação de eventos.
-# Tecnologias
-- HTML
-- CSS
+# Calculadora Web
+
+Projeto de uma calculadora desenvolvida para praticar os fundamentos de desenvolvimento web.
+
+## Tecnologias utilizadas
+
+- HTML5
+- CSS3
 - JavaScript
-# Status
-Em desenvolvimento.
+
+## Funcionalidades
+
+- Operações básicas de matemática:
+  - Adição
+  - Subtração
+  - Multiplicação
+  - Divisão
+- Botão para limpar os valores
+- Interface simples e responsiva
+
+## Objetivo do projeto
+
+Este projeto foi desenvolvido como parte dos meus estudos em Análise e Desenvolvimento de Sistemas, aplicando conceitos de estruturação de páginas, estilização e programação com JavaScript.
+
+## Acesso ao projeto
+
+O projeto está disponível pelo GitHub Pages.
